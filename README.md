@@ -28,21 +28,21 @@ The word tokens should be classified in the following categories:
 
 ## Preliminary performance
 
-**Validation accuracy: 0.87
-**Validation micro F1 score: 0.87
-**Validation macro F1 score: 0.37
+- **Validation accuracy: 0.87**
+- **Validation micro F1 score: 0.87**
+- **Validation macro F1 score: 0.37**
 
 ## Preliminary results example
 
-- Example 1
+### Example 1
 ![](img/res1.png)
 
-- Example 2
+### Example 2
 ![](img/res2.png)
 
-- Example 3
+### Example 3
 ![](img/res3.png)
 
-- Example 4
+### Example 4
 ![](img/res4.png)
 
